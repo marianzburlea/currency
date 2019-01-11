@@ -4,6 +4,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npm run api`
+
+Starts a simple API server so we can make a request to get the currency data. If you don't have `json-server` installed on your system you can run 
+```
+npm i -g json-server
+```
+
 ### `npm start`
 
 Runs the app in the development mode.<br>
