@@ -3,10 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "axios": "0.18.0",
-    "react": "16.7.0-alpha.2",
-    "react-dom": "16.7.0-alpha.2",
-    "react-scripts": "2.1.1"
+    "axios": "0.19.0",
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "react-scripts": "3.0.1"
   },
   "scripts": {
     "api": "json-server --port=2345 --watch src/data/currencies.json",
